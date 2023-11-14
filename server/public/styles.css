@@ -9,12 +9,15 @@ body {
 
 header {
   text-align: center;
+  background-color: lightgoldenrodyellow;
 }
 
 .team {
   width: 50%;
   height: 200px;
   float: left;
+  text-align: center;
+  font-size: large;
 }
 
 .team1 {
@@ -23,4 +26,8 @@ header {
 
 .team2 {
   background-color: plum;
+}
+
+img{
+  padding: 6px;
 }
